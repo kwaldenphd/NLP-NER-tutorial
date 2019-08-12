@@ -17,9 +17,9 @@ Developed in 2006 by a team based out of Stanford University’s National Langua
 
 ## Data
 
-1-Download the Equiano.txt file from this Repo. Open the <strong>Equiano.txt</strong> file to see <a href="http://www.gutenberg.org/ebooks/15399?msg=welcome_stranger">the plain text utf-8 file</a> downloaded from Project Gutenberg.
+1-Download the Equiano_Text.txt file from this Repo. Open the <strong>Equiano.txt</strong> file to see <a href="http://www.gutenberg.org/ebooks/15399?msg=welcome_stranger">the plain text utf-8 file</a> downloaded from Project Gutenberg.
 
-<p align="center"><a href="https://github.com/kwaldenphd/NLP-NER-tutorial/blob/master/screenshots/Capture_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/NLP-NER-tutorial/blob/master/screenshots/Capture_1.png?raw=true" alt="" width="780" height="959" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/NLP-NER-tutorial/blob/master/screenshots/Capture-1.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/NLP-NER-tutorial/blob/master/screenshots/Capture-1.PNG?raw=true" alt="" width="780" height="959" /></a></p>
 
 2-Copy the file to your <strong>Desktop</strong>, and <strong>right click on the file</strong> to open it in <strong>Notepad</strong>, the native Windows text editing program.
 
@@ -148,7 +148,7 @@ Developed in 2006 by a team based out of Stanford University’s National Langua
 
 <blockquote><em>The ampersand symbol has a special function/meaning in XML, meaning the “&amp;c.” combination of characters will cause errors in validating or loading the XML.</em></blockquote>
 
-<p align="center"><a href="https://github.com/kwaldenphd/NLP-NER-tutorial/blob/master/screenshots/Capture_20.png?raw=true"><img class="aligncenter size-large wp-image-722" src="https://github.com/kwaldenphd/NLP-NER-tutorial/blob/master/screenshots/Capture-20.png?raw=true" alt="" width="676" height="356" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/NLP-NER-tutorial/blob/master/screenshots/Capture_20.PNG?raw=true"><img class="aligncenter size-large wp-image-722" src="https://github.com/kwaldenphd/NLP-NER-tutorial/blob/master/screenshots/Capture_20.PNG?raw=true" alt="" width="676" height="356" /></a></p>
 
 &nbsp;
 
